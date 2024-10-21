@@ -10,5 +10,18 @@
         "name": "Joshua Frable"
     },
     "items": [
+        {
+            "id": "https://frabletech.com/website-building-in-progress.html",
+            "url": "https://frabletech.com/website-building-in-progress.html",
+            "title": "Website Building In Progress!",
+            "image": "https://frabletech.com/media/posts/1/FrableTechLogo-2-2xl.jpg",
+            "author": {
+                "name": "Joshua Frable"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-21T15:39:36-05:00",
+            "date_modified": "2024-10-21T15:39:36-05:00"
+        }
     ]
 }

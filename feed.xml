@@ -3,10 +3,23 @@
     <title>FrableTech</title>
     <link href="https://frabletech.com/feed.xml" rel="self" />
     <link href="https://frabletech.com" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2024-10-21T15:39:36-05:00</updated>
     <author>
         <name>Joshua Frable</name>
     </author>
     <id>https://frabletech.com</id>
 
+    <entry>
+        <title>Website Building In Progress!</title>
+        <author>
+            <name>Joshua Frable</name>
+        </author>
+        <link href="https://frabletech.com/website-building-in-progress.html"/>
+        <id>https://frabletech.com/website-building-in-progress.html</id>
+        <media:content url="https://frabletech.com/media/posts/1/FrableTechLogo-2-2xl.jpg" medium="image" />
+
+        <updated>2024-10-21T15:39:36-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
