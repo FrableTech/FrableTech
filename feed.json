@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "FrableTech",
     "description": "",
-    "home_page_url": "https://FrableTech.github.com/FrableTech",
-    "feed_url": "https://FrableTech.github.com/FrableTech/feed.json",
+    "home_page_url": "https://frabletech.com",
+    "feed_url": "https://frabletech.com/feed.json",
     "user_comment": "",
-    "icon": "https://FrableTech.github.com/FrableTech/media/website/FrableTechLogo-2.jpg",
+    "icon": "https://frabletech.com/media/website/FrableTechLogo-2.jpg",
     "author": {
         "name": "Joshua Frable"
     },
