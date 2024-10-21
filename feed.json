@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FrableTech",
+    "description": "",
+    "home_page_url": "https://FrableTech.github.com/FrableTech",
+    "feed_url": "https://FrableTech.github.com/FrableTech/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Joshua Frable"
+    },
+    "items": [
+    ]
+}
